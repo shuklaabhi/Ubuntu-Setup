@@ -1,14 +1,8 @@
 # git and Github
 
-Installing git 
+
+
+Installing git
 
 sudo apt-get install git-core
-
-
-
-
-
-
-
-
 
